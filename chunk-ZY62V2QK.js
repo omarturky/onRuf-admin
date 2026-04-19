@@ -1,0 +1,1 @@
+var o={Auth:{SignUp:"signup",SignUpLast:"signup-last",Login:"login",CompleteRegistration:"complete-registration",PhoneConfirmation:"phone-confirmation",ForgotPassword:"forgot-password",ResetPassword:"reset-password"}};export{o as a};

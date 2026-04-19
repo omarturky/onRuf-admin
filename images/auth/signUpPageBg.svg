@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="802.711" height="776.701" viewBox="0 0 802.711 776.701">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="802.711" height="776.701" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.259"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Scroll_Group_43" data-name="Scroll Group 43" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <rect id="Rectangle_9074" data-name="Rectangle 9074" width="803" height="777" fill="#ee6c4d"/>
+    <g id="_1" data-name="1" transform="matrix(-0.839, 0.545, -0.545, -0.839, 981.711, 634.865)">
+      <path id="Path_21968" data-name="Path 21968" d="M281.687,0c155.33,0,281.687,126.335,281.687,281.665H467.121c0-102.222-83.19-185.412-185.434-185.412S96.253,179.443,96.253,281.665H0C0,126.335,126.357,0,281.687,0Z" transform="translate(0 280.057)" fill="url(#linear-gradient)"/>
+      <path id="Path_21969" data-name="Path 21969" d="M0,285.292V0H97.2V144.353L209.958,0H332.915L110.321,285.292Z" transform="translate(0 0.015)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_9075" data-name="Rectangle 9075" width="97.2" height="285.439" transform="translate(466.174 0)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
