@@ -1,0 +1,11 @@
+{
+  "framework": null,
+  "outputDirectory": ".",
+  "buildCommand": null,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
