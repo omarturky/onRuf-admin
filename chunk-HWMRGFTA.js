@@ -1,0 +1,1 @@
+import{W as s,oa as i}from"./chunk-ODMAILJ5.js";var o=class t{subItems=i([]);setSubItems(e){this.subItems.set(e)}clearSubItems(){this.subItems.set([])}static \u0275fac=function(r){return new(r||t)};static \u0275prov=s({token:t,factory:t.\u0275fac,providedIn:"root"})};export{o as a};

@@ -1,0 +1,1 @@
+var o=(e=>(e.Pending="Pending",e.WaitingForPayment="WaitingForPayment",e.Approved="approved",e.Rejected="Rejected",e.Suspended="Suspended",e.Disabled="Disabled",e.NeedsChanges="NeedsChanges",e))(o||{});export{o as a};
